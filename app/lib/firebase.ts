@@ -4,13 +4,13 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDCO227OhbpBn6cFUfFe24tYQunsj9aKro",
-  authDomain: "liquor-delivery-1ba8c.firebaseapp.com",
-  projectId: "liquor-delivery-1ba8c",
-  storageBucket: "liquor-delivery-1ba8c.appspot.com",
-  messagingSenderId: "354545326303",
-  appId: "1:354545326303:web:aba04b599037da5f0e316a",
-  measurementId: "G-Q1292XVB1Z"
+  apiKey: "************************************",
+  authDomain: "************************************",
+  projectId: "************************************",
+  storageBucket: "************************************",
+  messagingSenderId: "************************************",
+  appId: "************************************",
+  measurementId: "************************************"
 };
 
 // Initialize Firebase
